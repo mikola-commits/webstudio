@@ -1,0 +1,14 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+
+}
+li,
+.contact a{
+    margin-right: 10px;
+}
